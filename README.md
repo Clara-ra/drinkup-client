@@ -6,7 +6,7 @@ The color palette for this site pays homage to the photo as well.
 
 **Link to project:** TBD
 
-![alt text]([https://github.com/Clara-ra/drinkup-client/blob//image.jpg?raw=true](https://github.com/Clara-ra/drinkup-client/blob/main/assets/amy-shamblen-3G8k9IhI6FE-unsplash.jpg))
+![alt text](https://github.com/Clara-ra/drinkup-client/blob/main/assets/screenshot.png)
 
 ## How It's Made:
 
