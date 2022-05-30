@@ -1,10 +1,11 @@
 # Drink Up client
 Unsure of what to drink tonight? Use this site to decide! You can search by name or the primary ingredient. Have no idea what you want? There's a random option as well!
 
-I was inspired to make this project when I stumbled upon this gorgeous photo by Amy Shamblen https://unsplash.com/photos/3G8k9IhI6FE
+I was inspired to make this project when I stumbled upon this colorful photo by [Amy Shamblen](https://unsplash.com/photos/3G8k9IhI6FE) 
+
 The color palette for this site pays homage to the photo as well.
 
-**Link to project:** TBD
+**Link to project:** (https://clara-ra.github.io/drinkup-client/)
 
 ![alt text](https://github.com/Clara-ra/drinkup-client/blob/main/assets/screenshot.png)
 
