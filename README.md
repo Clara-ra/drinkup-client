@@ -6,8 +6,7 @@ The color palette for this site pays homage to the photo as well.
 
 **Link to project:** TBD
 
-![alt tag](http://placecorgi.com/1200/650)
-photo TBD
+![alt text]([https://github.com/Clara-ra/drinkup-client/blob//image.jpg?raw=true](https://github.com/Clara-ra/drinkup-client/blob/main/assets/amy-shamblen-3G8k9IhI6FE-unsplash.jpg))
 
 ## How It's Made:
 
