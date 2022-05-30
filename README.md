@@ -1,4 +1,4 @@
-# drink up client
+# Drink Up client
 Unsure of what to drink tonight? Use this site to decide! You can search by name or the primary ingredient. Have no idea what you want? There's a random option as well!
 
 I was inspired to make this project when I stumbled upon this gorgeous photo by Amy Shamblen https://unsplash.com/photos/3G8k9IhI6FE
