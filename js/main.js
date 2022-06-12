@@ -33,7 +33,7 @@ function close(e){
     drinkContainer.classList.remove('hide')
     randomContainer.classList.remove('hide')
     searchContainer.classList.remove('hide')
-    mainContainer.style.marginTop = "80px"
+    mainContainer.style.marginTop = "95px"
     list.innerHTML = ""
   }
      
@@ -44,7 +44,7 @@ function searchBar(e){
       searchContainer.classList.add('hide')
       drinkContainer.classList.remove('hide')
       randomContainer.classList.remove('hide')
-      mainContainer.style.marginTop = "95px"
+      mainContainer.style.marginTop = "120px"
      }
 
 drinksBtn.addEventListener('click', () => {
@@ -52,12 +52,12 @@ drinksBtn.addEventListener('click', () => {
       drinkContainer.classList.add('hide')
       randomContainer.classList.remove('hide')
       searchContainer.classList.remove('hide')
-      mainContainer.style.marginTop = "145px"
+      mainContainer.style.marginTop = "160px"
      })
 
 randomBtn.addEventListener('click', () => {
   list.innerHTML = ""
-      mainContainer.style.marginTop = "80px"
+      mainContainer.style.marginTop = "95px"
       drinkContainer.classList.remove('hide')
       searchContainer.classList.remove('hide')
      })
@@ -128,9 +128,7 @@ const fetchData = (data) => {
   fetch(data)
   .then(res => res.json()) // parse response as JSON
   .then(data => {
-    // console.log(data.drinks)
     data.drinks.forEach(result => {
-      //return random drink to variable 
       createItem(result)
     })
   }) 
@@ -185,9 +183,6 @@ const createItem = (result) => {
                                   <p class="modal-instructions">${ returned.strInstructions }</p>
                                   </div>
                                   `            
-                console.log('test')
-                  //adds open class to display modal and image
-
                   newLi.addEventListener('click', () => {
 
               newDiv.classList.add('open')
